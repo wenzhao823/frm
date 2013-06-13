@@ -1,9 +1,9 @@
 {
     "name": "wenzhao823/frm",
-	"type": "library",
-	"keywords": ["php","framework"],
-	"homepage": "https://github.com/wenzhao823/frm",
-	"license": "MIT",
+    "type": "library",
+    "keywords": ["php","framework"],
+    "homepage": "https://github.com/wenzhao823/frm",
+    "license": "MIT",
     "authors": [
         {
             "name": "Tang Yonggang",
