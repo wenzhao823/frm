@@ -1,5 +1,16 @@
 {
     "name": "wenzhao823/frm",
+	"type": "library",
+	"keywords": ["php","framework"],
+	"homepage": "https://github.com/wenzhao823/frm",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Tang Yonggang",
+            "email": "wenzhao823@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": ">=5.3.0"
     }
